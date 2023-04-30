@@ -4,8 +4,10 @@
 /box.dat
 /CookieSet.json
 /jdCookie.js
+/cklist.txt
 /logs
 /app.*.js
 /main.*.js
 /JD_DailyBonus.js
 /sendNotify.js
+/BeanCache/*
